@@ -55,7 +55,7 @@ const AboutUs = () => {
               </p>
               <Button
                 as="a"
-                href="#footer"
+                href="#contact-us"
                 data-aos="zoom-in"
                 data-aos-duration="1800"
                 data-aos-once="true"

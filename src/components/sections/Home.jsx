@@ -36,7 +36,7 @@ const Home = () => {
 
             <Button
               as="a"
-              href="#footer"
+              href="#contact-us"
               data-aos="zoom-in"
               data-aos-duration="1000"
               data-aos-once="true"
