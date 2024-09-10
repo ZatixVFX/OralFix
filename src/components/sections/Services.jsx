@@ -44,7 +44,7 @@ const Services = () => {
                     data-aos-once="true"
                     className="card-wrapper"
                   >
-                    <Card className="px-4 py-1 card-shadow d-block">
+                    <Card className="px-4 px-sm-3 py-1 card-shadow d-block">
                       <Card.Title>
                         <Image
                           src={data.icon}
