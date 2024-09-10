@@ -53,7 +53,10 @@ const Services = () => {
                           className="p-2"
                         />
                       </Card.Title>
-                      <Card.Body className="py-0">
+                      <Card.Body
+                        className="py-0"
+                        style={{ minHeight: "190px" }}
+                      >
                         <p className="lead">{data.description}</p>
                       </Card.Body>
                       <Card.Footer className="d-flex justify-content-between bg-transparent">

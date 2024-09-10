@@ -139,10 +139,6 @@ body::before {
   position: relative;
 }
 
-.card-body {
-  min-height: 190px;
-}
-
 .overlay {
   position: absolute;
   top: 0;
